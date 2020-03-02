@@ -1,0 +1,5 @@
+Steps:
+
+1.Make the necessery changes in paths on batch file
+2.Place in on start up folder C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
+3.Place yours Username and the Password on the Python Code
